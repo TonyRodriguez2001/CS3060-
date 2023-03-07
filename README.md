@@ -1,4 +1,4 @@
-# CS3060-
+# Homework1
  
  Synopsis:
     This is a modular program that sllows the user to enter the number
